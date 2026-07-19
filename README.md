@@ -2,7 +2,7 @@
 
 **I build AI agents & RAG systems on enterprise data** — LangGraph · Claude · Snowflake · Python
 
-21 years in data & analytics: Data Architect at LTI (L&T Infotech), ML & fraud
+21 years in data & analytics: Data Architect at LTM (L&T Infotech), ML & fraud
 modeling at Max Bupa Health Insurance, insurance analytics at TCS.
 Now I help businesses put LLMs to work on their real data — not demos.
 
@@ -20,6 +20,6 @@ Now I help businesses put LLMs to work on their real data — not demos.
 | **[Chat with Your Warehouse](https://github.com/AmbikeshMishra/chat-with-your-warehouse)** — [live demo](https://chat-with-your-warehouse-mee5ypvwljlpme2373mqym.streamlit.app/) | Ask a Snowflake insurance-claims warehouse questions in plain English — the agent writes SQL, self-corrects on errors, and answers with a chart plus the audit-ready SQL behind it. LangGraph, GPT-4o-mini, Snowflake |
 
 ## Background
-Data Architect 8+ yrs (LTI) · Insurance fraud & retention models (Max Bupa, TCS) · ML certification, IIT Kharagpur
+Data Architect 8+ yrs (LTM) · Insurance fraud & retention models (Max Bupa, TCS) · ML certification, IIT Kharagpur
 
 📫 [LinkedIn](https://www.linkedin.com/in/ambikesh-mishra-2775b91b/) · m.ambikesh@gmail.com
